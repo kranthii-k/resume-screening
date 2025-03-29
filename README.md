@@ -18,3 +18,15 @@ This project is a simple web application built with Streamlit that extracts text
    ```bash
    git clone https://github.com/kranthii-k/resume-screening.git
    cd your-repository
+
+python -m venv venv
+source venv/bin/activate   # On Windows use: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+your-repository/
+├── app.py         # Main application script (contains the code)
+├── README.md              # This file
+└── requirements.txt       # Python dependencies
