@@ -1,4 +1,4 @@
-This Project built as Part of AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies. 
+This Project built as Part Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies. 
 project title : AI-powered Resume Screening and Ranking System 
 
 # AI Resume Screening & Candidate Ranking System
