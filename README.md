@@ -1,9 +1,3 @@
-This Project built as Part Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies. 
-project title : AI-powered Resume Screening and Ranking System 
-
-# AI Resume Screening & Candidate Ranking System
-
-This project is a simple web application built with Streamlit that extracts text from PDF resumes and ranks them based on a provided job description. It uses TF-IDF vectorization and cosine similarity from scikit-learn to determine how well each resume matches the job description.
 
 ## Features
 
@@ -30,3 +24,49 @@ your-repository/
 ├── app.py         # Main application script (contains the code)
 ├── README.md              # This file
 └── requirements.txt       # Python dependencies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Project built as Part Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies. 
+project title : AI-powered Resume Screening and Ranking System 
+
+# AI Resume Screening & Candidate Ranking System
+
+This project is a simple web application built with Streamlit that extracts text from PDF resumes and ranks them based on a provided job description. It uses TF-IDF vectorization and cosine similarity from scikit-learn to determine how well each resume matches the job description.
+
